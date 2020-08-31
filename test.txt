@@ -2,5 +2,7 @@ git add .
 git commit -m "first"
 git remote -v
 git remote add origin url
-git status
+
 git branch -a
+git checkouot -b dev
+git checkout master
